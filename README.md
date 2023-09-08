@@ -1,4 +1,4 @@
-# Human_Pose_Estimation_Project
+# Human Pose Estimation Project
 Anaconda environment:
 python 3.9.12
 tensorflow 2.10.0
