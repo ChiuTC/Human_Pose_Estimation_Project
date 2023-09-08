@@ -2,7 +2,7 @@
 Anaconda environment:
 python 3.9.12
 tensorflow 2.10.0
-mediapipe 0.9.0.1(install method : https://ithelp.ithome.com.tw/articles/10297967)
+mediapipe 0.9.0.1  
 ![1](https://github.com/ChiuTC/Human_Pose_Estimation_Project/assets/99594456/eb90afb7-0918-478f-a592-0364678f6c7c)
 ![2](https://github.com/ChiuTC/Human_Pose_Estimation_Project/assets/99594456/aa9b11a4-36da-4439-a125-fd9a825fdb5b)
 ![3](https://github.com/ChiuTC/Human_Pose_Estimation_Project/assets/99594456/d7dd51ec-621e-49b7-b47f-df613eb91a9c)
